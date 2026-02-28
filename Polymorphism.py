@@ -8,6 +8,5 @@ class Cat():
 
 d=Dog()
 c=Cat()
-
 d.Sound()
 c.Sound()
