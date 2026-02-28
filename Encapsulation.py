@@ -9,4 +9,5 @@ class student:
 s=student("Niteesh",90)
 
 print("Name : ",s.name)
+
 s.show_marks()
