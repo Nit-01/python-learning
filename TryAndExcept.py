@@ -1,4 +1,5 @@
 num=input()
+
 try:
     num=int(num)
 except ValueError:
