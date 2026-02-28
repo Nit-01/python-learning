@@ -7,5 +7,6 @@ class Dog(Animal):
         print("Dog Barks")
 
 d=Dog()
+
 d.eat()
 d.Bark()
