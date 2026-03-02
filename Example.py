@@ -26,6 +26,7 @@ nums=[10,20,3,6,23]
 print(max(nums, key=lambda x:x))
 '''
 
+'''
 def add():
     print("Def add funvtion")
 def main():
@@ -33,3 +34,14 @@ def main():
     add()
 if __name__ == "__main__":
     main()
+'''
+
+text=input()
+
+result=""
+
+for c in text:
+    if c not in result:
+        result+=c
+
+print(result)
