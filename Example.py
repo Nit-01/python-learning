@@ -21,6 +21,15 @@ def main():
 if __name__=="__main__":
     main()
 '''
-
+'''
 nums=[10,20,3,6,23]
 print(max(nums, key=lambda x:x))
+'''
+
+def add():
+    print("Def add funvtion")
+def main():
+    print("My name is niteesh")
+    add()
+if __name__ == "__main__":
+    main()
