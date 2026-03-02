@@ -44,4 +44,4 @@ for c in text:
     if c not in result:
         result+=c
 
-print(result)
+print("".join(sorted(set(result))))
