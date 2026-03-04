@@ -87,8 +87,16 @@ print(square(5))
 nums=[2,3,4,5]
 result=list(map(lambda x:x*x,nums))
 print(result)
-'''
 
 nums=[2,3,4,5]
 result=list(filter(lambda x:x%2==0,nums))
 print(result)
+
+names=["niteesg","bob","randiSangmesh"]
+rollno=[83,44,22]
+marks=[98,99,22]
+
+result=list(zip(names,rollno,marks))
+print(result)
+'''
+
