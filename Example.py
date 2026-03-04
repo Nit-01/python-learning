@@ -100,3 +100,4 @@ result=list(zip(names,rollno,marks))
 print(result)
 '''
 
+    
