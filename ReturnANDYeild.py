@@ -12,4 +12,7 @@ def show():
 for i in show():
     print(i)
 
-show()
+show(
+
+    
+)
